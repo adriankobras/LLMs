@@ -1,3 +1,4 @@
 *.env
 *.DS_Store
 requirements.txt
+*__pycache__*
